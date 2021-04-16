@@ -1,7 +1,8 @@
 # Ejercicio Macowins
 
 ### Enunciado
-El enunciado se encuentra [acá](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU/edit)
+El enunciado se encuentra: [acá](https://docs.google.com/document/d/1mjWKl9YH9Bb39iIUl1bQj_xhx_-CjCAMpcAXRqKhVjU/edit).
+Diagrama de clases tentativo de la solución: [acá](https://drive.google.com/file/d/1iVMkO7I6vmPIm6IkPBv7VzKclKXJxPun/view?usp=sharing)
 
 # Ejecutar tests
 
